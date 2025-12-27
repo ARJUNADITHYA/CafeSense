@@ -1,12 +1,12 @@
-# BrewHaven-AI-Powered-Cafe-App
+# CafeSense-AI-Powered-Cafe-App
 
-Welcome to the BrewHaven, an AI Agents powered cafe app! This repository contains the code and explanation of this project.
+Welcome to the CafeSense, an AI Agents powered cafe app! This repository contains the code and explanation of this project.
 
 # Project Overview
 Developed a cafe app with an AI chatbot that handles orders, recommends products using market basket analysis, provides café details, and filters irrelevant chats. Engineered and integrated five AI agents (Guard, Classifying, Detail, Recommendation, Order Taking) using RAG, Llama 3.1, Pinecone DB, BGE embeddings, and prompt engineering. Built two recommendation engines with Apriori algorithm and data mining techniques. Deployed the system via Docker on RunPod as an API endpoint and is currently developing a React Native app with real-time Firebase integration.
 
 ## 🧠 BrewBot Agent Architecture
-![BrewHaven's Agents Architecture](./images/architecture.jpg)
+![CafeSense's Agents Architecture](./images/architecture.jpg)
 
 ## Tools and Technologies Used
 This Project uses following tools and Technologies:
@@ -73,7 +73,7 @@ The React Native Coffee Shop App serves as the front-end interface for customers
 
 # 📂 Directory Structure
 ```bash
-├── Brewhaven
+├── CafeSense
 │   ├── app # Contains React Native Frontend Code   
 │   ├── python_code
 │       ├── API/               # Chatbot API for agent-based system
