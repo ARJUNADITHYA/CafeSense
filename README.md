@@ -5,7 +5,7 @@ Welcome to the CafeSense, an AI Agents powered cafe app! This repository contain
 # Project Overview
 Developed a cafe app with an AI chatbot that handles orders, recommends products using market basket analysis, provides café details, and filters irrelevant chats. Engineered and integrated five AI agents (Guard, Classifying, Detail, Recommendation, Order Taking) using RAG, Llama 3.1, Pinecone DB, BGE embeddings, and prompt engineering. Built two recommendation engines with Apriori algorithm and data mining techniques. Deployed the system via Docker on RunPod as an API endpoint and is currently developing a React Native app with real-time Firebase integration.
 
-## 🧠 BrewBot Agent Architecture
+## 🧠 CafeBot Agent Architecture
 ![CafeSense's Agents Architecture](./images/architecture.jpg)
 
 ## Tools and Technologies Used
